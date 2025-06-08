@@ -1,5 +1,5 @@
-﻿name=divin
-owner_id=EdmsTKiuld
+﻿name=Loader
+owner_id=1Xadkrpf1V
 version=1.0
-secret=0b46648444050ff3b6179a7dc2ce8c7c28f14791e02c19f71a5d0b9dbd6e512a
+secret=b0d9a5c35d515883276581cc059df531cf3e8feb3d6a5c25bf7f4d3f12e05910
 file_hash=9d47130c7c538d4a91a133efdec378f9cb6b7b15847c2905e12e7cb5e62020d6
